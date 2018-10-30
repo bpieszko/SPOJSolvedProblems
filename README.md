@@ -6,7 +6,7 @@ Script to counting solved problems in categories {easy, medium, hard, challenge}
 g++-7 --std=c++17 -o SPOJSolvedProblems SPOJSolvedProblems.cpp -lcurl
 ```
 
-## Using
+## Usage
 ```
 ./SPOJSolvedProblems "user_name"
 ```
